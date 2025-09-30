@@ -1,0 +1,18 @@
+Evaluation Report:
+               precision    recall  f1-score   support
+
+   BaseBridge     1.0000    0.9091    0.9524        33
+  DroidKungFu     1.0000    1.0000    1.0000        67
+      FakeDoc     1.0000    1.0000    1.0000        13
+FakeInstaller     1.0000    0.9785    0.9891        93
+    GinMaster     1.0000    0.8529    0.9206        34
+     Iconosys     0.9333    0.9333    0.9333        15
+         Kmin     1.0000    1.0000    1.0000        15
+       Opfake     1.0000    0.9836    0.9917        61
+     Plankton     1.0000    1.0000    1.0000        62
+       benign     0.9876    0.9990    0.9932       957
+
+     accuracy                         0.9904      1350
+    macro avg     0.9921    0.9656    0.9780      1350
+ weighted avg     0.9905    0.9904    0.9902      1350
+

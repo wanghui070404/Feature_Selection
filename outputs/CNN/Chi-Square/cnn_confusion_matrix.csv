@@ -1,0 +1,11 @@
+,BaseBridge,DroidKungFu,FakeDoc,FakeInstaller,GinMaster,Iconosys,Kmin,Opfake,Plankton,benign
+BaseBridge,28,0,0,0,0,0,0,0,0,5
+DroidKungFu,0,65,0,0,1,0,0,0,0,1
+FakeDoc,0,0,13,0,0,0,0,0,0,0
+FakeInstaller,0,0,0,87,0,0,0,5,0,1
+GinMaster,0,0,0,0,32,0,0,0,0,2
+Iconosys,0,0,0,0,0,14,0,0,0,1
+Kmin,0,0,0,0,0,0,15,0,0,0
+Opfake,0,0,0,0,0,0,0,60,0,1
+Plankton,0,0,0,0,0,0,0,0,62,0
+benign,0,0,0,1,7,1,0,2,0,946
